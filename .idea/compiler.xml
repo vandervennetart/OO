@@ -6,13 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="indiv_oef2" />
+        <module name="workshop" />
+        <module name="indiv_oef" />
         <module name="lesweek2" />
         <module name="lesweek5" />
         <module name="Lesweek1" />
         <module name="lesweek4" />
-        <module name="workshop" />
-        <module name="indiv_oef" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lesweek6" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>

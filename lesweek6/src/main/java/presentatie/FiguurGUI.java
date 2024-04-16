@@ -25,6 +25,7 @@ public class FiguurGUI {
     private JButton undoButton;
     private JLabel error;
     private JButton sorteerButton;
+    private JTextArea textArea1;
 
     private ArrayList<Figuur> gekozenFiguren = new ArrayList<>();
 
